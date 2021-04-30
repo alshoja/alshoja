@@ -21,6 +21,5 @@ A passionate blockchain developer from :india: whose most of the work and resear
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://github.com/prplx/svg-logos/blob/master/svg/svelte.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
   <br />
 </p>
