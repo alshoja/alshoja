@@ -4,9 +4,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alshoja@gmail.com)
 ![](https://komarev.com/ghpvc/?username=alshoja&color=blue&style=flat-square&label=Profile+visitors)
 
-A passionate blockchain developer from :india: whose most of the work and research is focused on improving ÐApp experience. 
+Hands on Experience on NodeJs, NestJs ,Express, Laravel,Angular,Svelte 
 
-- 🏢 I'm currently working at [Infopark]()
+- 🏢 I'm currently working at [Infopark Kerala India]()
+- Accruing knowledg on React,Vue,Ionic
 
 
 
