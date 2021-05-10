@@ -7,7 +7,7 @@
 Hands on Experience on NodeJs, NestJs ,Express, Laravel,Angular,Svelte 
 
 - 🏢 I'm currently working at [Infopark Kerala India]()
-- Accruing knowledg on React,Vue,Ionic
+- Accruing knowledge on React,Vue,Ionic
 
 
 
