@@ -28,8 +28,10 @@ Hands on Experience on NodeJs, NestJs ,Express, Laravel,Angular,Svelte
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-
 </p>
+
 **Deadly Experimenting in:** 
+<p>
   <code><img width="10%" src="https://github.com/prplx/svg-logos/blob/master/svg/svelte.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
+</p
