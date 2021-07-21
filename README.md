@@ -4,10 +4,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alshoja@gmail.com)
 ![](https://komarev.com/ghpvc/?username=alshoja&color=blue&style=flat-square&label=Profile+visitors)
 
-Hands on Experience on NodeJs, NestJs ,Express, Laravel,Angular,Svelte 
+Hands on Experience on NodeJs, NestJs ,Express, Laravel,Angular
 
 - 🏢 I'm currently working at [Infopark Kerala India]()
-- Accruing knowledge on React,Vue,Ionic
+- Accruing knowledge on React,Vue,Ionic,Svelte
 
 
 
