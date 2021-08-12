@@ -35,4 +35,6 @@ Hands on Experience in NodeJs, NestJs ,Express, Laravel,Angular
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
   <code><img width="10%" src="https://github.com/prplx/svg-logos/blob/master/svg/svelte.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/koajs/koajs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
+  
 </p
