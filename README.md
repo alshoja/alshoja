@@ -13,9 +13,8 @@ Hands on Experience in NodeJs, NestJs ,Express, Laravel,Angular
 
 **Languages and Tools:** 
 <p>
-  <a href="https://github.com/alshoja">
-    <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=alshoja&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Alshoja's GitHub stats"/>
-</a>
+   <a href="https://github.com/alshoja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alshoja&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="alshoja's github stats" /></a> | <a href="https://github.com/alshoja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshoja&layout=compact&theme=buefy&hide_border=true" /></a> 
+
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
@@ -30,13 +29,10 @@ Hands on Experience in NodeJs, NestJs ,Express, Laravel,Angular
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alshoja)](https://github.com/alshoja/github-readme-stats)
 
 **Deadly Experimenting in:** 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
   <code><img width="10%" src="https://github.com/prplx/svg-logos/blob/master/svg/svelte.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/koajs/koajs-ar21.svg"></code>
-
-  
-</p
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/koajs/koajs-ar21.svg"></code> 
+</p>
