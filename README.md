@@ -13,7 +13,7 @@ Hands on Experience in NodeJs, NestJs ,Express, Laravel,Angular
 
 **Languages and Tools:** 
 <p>
-   <a href="https://github.com/alshoja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alshoja&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="alshoja's github stats" /></a> | <a href="https://github.com/alshoja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshoja&layout=compact&theme=buefy&hide_border=true" /></a> 
+   <a href="https://github.com/alshoja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alshoja&show_icons=true&include_all_commits=true&hide_border=true" alt="alshoja's github stats" /></a> | <a href="https://github.com/alshoja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshoja&layout=compact&hide_border=true" /></a> 
 
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
