@@ -13,7 +13,7 @@ Hands on Experience in NodeJs, NestJs ,Express, Laravel,Angular
 
 **Languages and Tools:** 
 <p>
-   <a href="https://github.com/alshoja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alshoja&show_icons=true&include_all_commits=true&hide_border=true" alt="alshoja's github stats" /></a> | <a href="https://github.com/alshoja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshoja&layout=compact&hide_border=true" /></a> 
+   <a href="https://github.com/alshoja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alshoja&show_icons=true&include_all_commits=true&hide_border=true" alt="alshoja's github stats" /></a> 
 
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
@@ -29,10 +29,4 @@ Hands on Experience in NodeJs, NestJs ,Express, Laravel,Angular
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
 </p>
-
-**Deadly Experimenting in:** 
-<p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
-  <code><img width="10%" src="https://github.com/prplx/svg-logos/blob/master/svg/svelte.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/koajs/koajs-ar21.svg"></code> 
-</p>
+ <a href="https://github.com/alshoja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshoja&layout=compact&hide_border=true" /></a> 
