@@ -30,7 +30,7 @@ Hands on Experience in NodeJs, NestJs ,Express, Laravel,Angular
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alshoja)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alshoja)](https://github.com/alshoja/github-readme-stats)
 
 **Deadly Experimenting in:** 
 <p>
