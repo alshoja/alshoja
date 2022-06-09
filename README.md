@@ -26,5 +26,6 @@ Hands on Experience in NodeJs, NestJs ,Express, Laravel,Angular
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
 </p>
  <a href="https://github.com/alshoja/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshoja&layout=compact&hide_border=true" /></a> 
