@@ -6,7 +6,7 @@
 
 Hands on Experience in NodeJs, NestJs ,Express, Laravel,Angular
 
-- 🏢 I'm currently working at [Berlin Germany]()
+- 🏢 [Berlin Germany]()
 - Accruing knowledge on React,Vue,Ionic,Svelte
 
 
